@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "111259361213",
+    "firebase_url": "https://musnad-ahmad.firebaseio.com",
+    "project_id": "musnad-ahmad",
+    "storage_bucket": "musnad-ahmad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111259361213:android:7b284bf3d0b840f447fcd4",
+        "android_client_info": {
+          "package_name": "com.sunztech.musnad"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111259361213-hselr0nkegaiicamo2gnokhnhjnf3s9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4OTCVklhuJveoJZkKEhvEehocU2v7Xt8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111259361213-hselr0nkegaiicamo2gnokhnhjnf3s9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
